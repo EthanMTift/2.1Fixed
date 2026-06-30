@@ -1,0 +1,10 @@
+{
+    "name": "Rebalanced",
+    "version": "0.1.0",
+    "title": "Rebalanced",
+    "author": "theFALGSCmustgrow",
+    "factorio_version": "2.1",
+    "dependencies": ["base >= 2.1", "space-age >= 2.1"],
+    "description": "A few balance changes to make the game more interesting"
+  }
+  
